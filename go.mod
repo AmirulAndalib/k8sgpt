@@ -7,7 +7,6 @@ require (
 	github.com/fatih/color v1.16.0
 	github.com/magiconair/properties v1.8.7
 	github.com/mittwald/go-helm-client v0.12.5
-	github.com/prometheus/prometheus/v2 v2.35.0-retract
 	github.com/sashabaranov/go-openai v1.18.2
 	github.com/schollz/progressbar/v3 v3.14.1
 	github.com/spf13/cobra v1.8.0
@@ -25,8 +24,8 @@ require (
 require github.com/adrg/xdg v0.4.0
 
 require (
-	buf.build/gen/go/k8sgpt-ai/k8sgpt/grpc/go v1.3.0-20231116211251-9f5041346631.2
-	buf.build/gen/go/k8sgpt-ai/k8sgpt/protocolbuffers/go v1.28.1-20231116211251-9f5041346631.4
+	buf.build/gen/go/k8sgpt-ai/k8sgpt/grpc/go v1.3.0-20240128172516-6bf6a55ff115.2
+	buf.build/gen/go/k8sgpt-ai/k8sgpt/protocolbuffers/go v1.28.1-20240128172516-6bf6a55ff115.4
 	cloud.google.com/go/storage v1.36.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.4.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.2.1
